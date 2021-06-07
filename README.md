@@ -8,7 +8,7 @@ This is a number guesser game built with Vanilla JS.
 - Each time a random number is generated as the winning number
 
 ### Preview
-
+![Number Guesser Demo](img/Number-guesser.gif)
 
 ### Screenshot
 
