@@ -3,9 +3,9 @@
 This is a number guesser game built with Vanilla JS.
 
 ## Rules 
--Guess a number between 1 to 10 
--You are given a maximum of 3 chances
--Each time a random number is generated as the winning number
+- Guess a number between 1 to 10 
+- You are given a maximum of 3 chances
+- Each time a random number is generated as the winning number
 
 ### Preview
 
@@ -14,12 +14,12 @@ This is a number guesser game built with Vanilla JS.
 
             This is a desktop View.
 
-<img src="dist/img/loan-calc-desktop.png">
+<img src="dist/img/number-guesser-desktop.png">
 
              This is for mobile view.
 
 <p align="center">
-   <img src="dist/img/loan-calc-mobile.png" height="500px">
+   <img src="dist/img/number-guesser-mobile.png" height="500px">
   </p>
   
 ### Links
