@@ -35,5 +35,5 @@ This is a number guesser game built with Vanilla JS.
 ## Author
 
 - Website -`https://AlbertSigsbert.github.io/Portfolio/`
-- Frontend Mentor -https://www.frontendmentor.io/profile/AlbertSigsbert
-- Twitter - https://twitter.com/albert_sigsbert
+- [Frontend Mentor](https://www.frontendmentor.io/profile/AlbertSigsbert)
+- [Twitter](https://twitter.com/albert_sigsbert)
