@@ -21,9 +21,10 @@ This is a number guesser game built with Vanilla JS.
 <p align="center">
    <img src="dist/img/loan-calc-mobile.png" height="500px">
   </p>
+  
 ### Links
 
-- Live Site URL:https://albert-number-guesser.netlify.app/
+- [Live Site URL]:(https://albert-number-guesser.netlify.app/)
 
 ### Built with
 
