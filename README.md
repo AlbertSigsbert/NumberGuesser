@@ -14,12 +14,12 @@ This is a number guesser game built with Vanilla JS.
 
             This is a desktop View.
 
-<img src="dist/img/number-guesser-desktop.png">
+<img src="img/number-guesser-desktop.png">
 
              This is for mobile view.
 
 <p align="center">
-   <img src="dist/img/number-guesser-mobile.png" height="500px">
+   <img src="img/number-guesser-mobile.png" height="500px">
   </p>
   
 ### Links
