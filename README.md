@@ -2,9 +2,13 @@
 
 This is a number guesser game built with Vanilla JS.
 
+#Rules 
+-Guess a number between 1 to 10 
+-You are given a maximum of 3 chances
+-Each time a random number is generated as the winning number
+
 ###Preview
 
-![loan](https://user-images.githubusercontent.com/66664314/117400615-b02a5f00-af0b-11eb-95c8-24442094a628.gif)
 
 ### Screenshot
 
@@ -19,7 +23,7 @@ This is a number guesser game built with Vanilla JS.
   </p>
 ### Links
 
-- Live Site URL: https://loancalculators.netlify.app/
+- Live Site URL:https://albert-number-guesser.netlify.app/
 
 ### Built with
 
