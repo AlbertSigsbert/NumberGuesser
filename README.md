@@ -1,13 +1,13 @@
-#Number Guesser Game
+# Number Guesser Game
 
 This is a number guesser game built with Vanilla JS.
 
-#Rules 
+## Rules 
 -Guess a number between 1 to 10 
 -You are given a maximum of 3 chances
 -Each time a random number is generated as the winning number
 
-###Preview
+### Preview
 
 
 ### Screenshot
