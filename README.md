@@ -25,6 +25,7 @@ This is a number guesser game built with Vanilla JS.
 ### Links
 
 - [Live Site URL](https://albert-number-guesser.netlify.app/)
+- [Youtube](https://youtu.be/eIHVTw19pVc)
 
 ### Built with
 
